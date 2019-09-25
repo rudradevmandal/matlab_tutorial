@@ -4,3 +4,7 @@
 **Tutorial I:** Basic condidtional statements and Loops.
 
 **Tutorial II:** Functions and different data types in Matlab.
+
+**Tutorial III:** Gauss elimination using partial pivoting method.
+
+**Tutorial-IV:** Finding the Jacobian matrix.
