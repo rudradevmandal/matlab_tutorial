@@ -7,4 +7,4 @@
 
 **Tutorial III:** Gauss elimination using partial pivoting method.
 
-**Tutorial-IV:** Finding the Jacobian matrix.
+**Tutorial IV:** Finding the Jacobian matrix.
