@@ -8,3 +8,7 @@
 **Tutorial III:** Gauss elimination using partial pivoting method.
 
 **Tutorial IV:** Finding the Jacobian matrix.
+
+**Tutorial V:** Solving linear equations using Jacobi method.
+
+**Tutorial VI:** Finding the roots of non-linear equations using Newton-Raphson method.
